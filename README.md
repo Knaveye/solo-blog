@@ -10,8 +10,8 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://yejinpeng.top/my-github-repos)
 * [first](http://yejinpeng.top/articles/2019/08/27/1566915834230.html)
-* [世界，你好！](http://yejinpeng.top/hello-solo)
 
 
 
